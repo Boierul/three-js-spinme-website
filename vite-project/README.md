@@ -1,6 +1,6 @@
 # 3D interactive website
 
-An web application that allows the user to interact with a 3D model of the sphere. Animated were achieved via three.js and orchestrated via gsap. 
+An web application that allows the user to interact with a 3D model of the sphere. Animations were achieved via three.js and orchestrated via gsap. 
 
 ## Project Screenshots
 ![3d_website_Image_1](https://i.postimg.cc/P5rx4qZB/Screenshot-3.png)
